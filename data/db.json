@@ -1,0 +1,62 @@
+{
+  "todos": [
+    {
+      "createdAt": "2023-02-19T11:28:20.713Z",
+      "completed": false,
+      "title": "Todo 1",
+      "description": "dasdsaddsad",
+      "dueDate": "2022-04-07",
+      "id": 2,
+      "updatedAt": "2023-02-25T19:04:59.815Z",
+      "important": false
+    },
+    {
+      "createdAt": "2023-02-19T11:28:20.713Z",
+      "completed": true,
+      "title": "Todo 2",
+      "description": "dasdsaddsad",
+      "dueDate": "2022-04-07",
+      "id": 3,
+      "updatedAt": "2023-02-25T19:54:30.611Z",
+      "important": false
+    },
+    {
+      "createdAt": "2023-02-19T11:28:20.713Z",
+      "completed": false,
+      "title": "new note2",
+      "description": "dasdsaddsad",
+      "dueDate": "2022-04-07",
+      "id": 1,
+      "updatedAt": "2023-02-25T19:04:59.815Z",
+      "important": true
+    },
+    {
+      "createdAt": "2023-02-25T19:44:18.061Z",
+      "completed": true,
+      "title": "Task 22",
+      "description": "asdasfas",
+      "dueDate": "2023-02-25",
+      "id": 4,
+      "updatedAt": "2023-02-25T19:54:04.920Z",
+      "important": true
+    },
+    {
+      "createdAt": "2023-02-25T19:58:50.985Z",
+      "completed": false,
+      "title": "Test Update",
+      "description": "Test udpate",
+      "dueDate": "2023-02-25",
+      "id": 5
+    },
+    {
+      "createdAt": "2023-02-25T20:18:23.162Z",
+      "completed": false,
+      "title": "Laj kerrin (BMW)",
+      "description": "Coje kerrin ne lavazh",
+      "dueDate": "2023-03-01",
+      "id": 6,
+      "updatedAt": "2023-02-25T20:19:06.428Z",
+      "important": true
+    }
+  ]
+}
