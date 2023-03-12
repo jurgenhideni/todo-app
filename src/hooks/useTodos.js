@@ -10,14 +10,9 @@ export const useTodos = (filter) => {
       }
     })
 
-    const data = res.data.map((item) => ({
-      title: item.title,
-      description: item.description,
-      dueDate: item.dueDate,
-      createdAt: item.createdAt,
-      updatedAt: item.updatedAt || '',
-      completed: item.completed,
-      id: item._id
+    const data = res.data.map(({ _id, ...rest }) => ({
+      id: _id,
+      ...rest
     }))
 
     return data
